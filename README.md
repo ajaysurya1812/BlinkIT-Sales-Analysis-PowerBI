@@ -144,3 +144,31 @@ Interactive Power BI Dashboard for BlinkIT Grocery Sales Analysis using Power Qu
 
 ![Business Insights & Strategic Analysis](Images/Dashboard5.png)
 
+
+## 🚀 Future Enhancements
+
+- Real-time data integration
+- Sales forecasting using AI/ML
+- Customer segmentation analysis
+- Inventory optimization dashboard
+- Profitability analysis
+- Interactive map visualizations
+- Mobile-friendly dashboard
+- Automated dashboard refresh
+- Predictive analytics for business planning
+
+---
+## 👨‍💻 Author
+
+**Allamudi Ajay Surya**
+
+**B.Tech – Computer Science & Engineering With Specialization in Artificial Intelligence & Machine Learning**
+
+**Aspiring Data Analyst**
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** [Ajay Surya Allamudi](https://www.linkedin.com/in/ajay-surya-allamudi/)
+- 💻 **GitHub:** [AjaySuryaAllamudi](https://github.com/ajaysurya1812)
+- 📧 **Email:** [yourname@gmail.com](mailto:aasurya.2005@gmail.com)
+
