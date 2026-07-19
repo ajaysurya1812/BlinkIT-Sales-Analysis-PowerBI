@@ -170,5 +170,5 @@ Interactive Power BI Dashboard for BlinkIT Grocery Sales Analysis using Power Qu
 
 - 💼 **LinkedIn:** [Ajay Surya Allamudi](https://www.linkedin.com/in/ajay-surya-allamudi/)
 - 💻 **GitHub:** [AjaySuryaAllamudi](https://github.com/ajaysurya1812)
-- 📧 **Email:** [Mail](mailto:aasurya.2005@gmail.com)
+- 📧 **Email:** [Gmail](mailto:aasurya.2005@gmail.com)
 
